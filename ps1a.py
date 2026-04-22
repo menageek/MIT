@@ -1,6 +1,7 @@
 
 anual_salary = float(input("Enter your anual salary: "))
 portion_saved = float(input("Enter the percent of your salary to save, as a decimal: "))
+# The total cost of the dream home
 total_cost = float(input("Enter the cost of your dream home: "))
 current_saving = 0
 portion_down_payment = total_cost * 0.25
